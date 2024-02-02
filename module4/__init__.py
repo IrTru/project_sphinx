@@ -1,0 +1,1 @@
+from .module4 import funct_multiplication

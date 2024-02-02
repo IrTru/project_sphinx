@@ -1,0 +1,1 @@
+from .module1 import funct_sum

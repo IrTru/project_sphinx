@@ -1,0 +1,21 @@
+module5 package
+===============
+
+Submodules
+----------
+
+module5.module5 module
+----------------------
+
+.. automodule:: module5.module5
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: module5
+   :members:
+   :undoc-members:
+   :show-inheritance:

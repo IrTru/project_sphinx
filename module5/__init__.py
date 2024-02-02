@@ -1,0 +1,1 @@
+from .module5 import funct_degree

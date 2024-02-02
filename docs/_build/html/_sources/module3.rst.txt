@@ -1,0 +1,21 @@
+module3 package
+===============
+
+Submodules
+----------
+
+module3.module3 module
+----------------------
+
+.. automodule:: module3.module3
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: module3
+   :members:
+   :undoc-members:
+   :show-inheritance:
